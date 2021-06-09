@@ -1,0 +1,138 @@
+body{
+  font-family: Montserrat, sans-serif;
+}
+
+a{
+  text-decoration: none; 
+}
+
+#intro {
+  background-image: url("/Assets/img/Background1.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Height for devices larger than 576px */
+@media (min-width: 992px) {
+  #intro {
+    margin-top: -165.59px;
+  }
+}
+
+.navbar .nav-link {
+  color: #fff !important;
+}
+
+#seller{
+  background-image: url("/Assets/img/Background2.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#buyer{
+  background-image: url("/Assets/img/Background3.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#end{
+  background-image: url("/Assets/img/Background4.jpg");
+  height: 50vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#footer{
+  background-image: url("/Assets/img/Background5.jpg");
+  height: 50vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#footer_logo{
+  width: 100%;
+}
+
+.btn{
+  width: 200px;
+  border-radius: 0;
+  font-weight: 900;
+  font-size: xx-large;
+  background-color: rgb(18,110,131);
+  border-color: rgb(18,110,131);
+}
+
+.button_signup{
+  width: auto;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.nav-item{
+  margin-top: 60px;
+  margin-left: 60px;
+  margin-right: 60px;
+  font-weight: 100;
+  font-size: medium;
+}
+
+.navbar-brand{
+  margin-top: 60px;
+  margin-left: 50px;
+  font-weight: 100;
+}
+
+strong{
+  font-weight: 600;
+}
+
+.logo_title{
+  margin-top: 200px; 
+}
+
+#logo_title{
+  width: 50%;
+}
+
+.mb-3{
+  margin-top: 50px;
+  font-weight: 200;
+  font-size: xx-large;
+}
+
+.mb-4{
+  margin-top: 50px;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+h6{
+  font-size: small;
+  margin-top: 10px;
+}
+
+li{
+  margin-top: 30px;
+}
+
+ul{
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+
+#seller{
+  color: rgb(18,110,131);
+}
+
+#end{
+  color: rgb(18,110,131);
+}
