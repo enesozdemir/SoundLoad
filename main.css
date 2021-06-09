@@ -17,7 +17,7 @@ a{
 /* Height for devices larger than 576px */
 @media (min-width: 992px) {
   #intro {
-    margin-top: -165.59px;
+    margin-top: -181.59px;
   }
 }
 
@@ -57,6 +57,10 @@ a{
   background-size: cover;
 }
 
+.footer_logo{  
+  margin-right: 100px;
+}
+
 #footer_logo{
   width: 100%;
 }
@@ -77,7 +81,6 @@ a{
 }
 
 .nav-item{
-  margin-top: 60px;
   margin-left: 60px;
   margin-right: 60px;
   font-weight: 100;
@@ -95,7 +98,7 @@ strong{
 }
 
 .logo_title{
-  margin-top: 200px; 
+  margin-top: 200px;
 }
 
 #logo_title{
@@ -127,6 +130,16 @@ ul{
   list-style-type: none; /* Remove bullets */
   padding: 0; /* Remove padding */
   margin: 0; /* Remove margins */
+}
+
+.bi{
+  width: 32px;
+  height: 32px;
+  color: cornflowerblue;
+}
+
+.socials{
+  margin: 30px;
 }
 
 #seller{
