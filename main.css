@@ -7,7 +7,7 @@ a{
 }
 
 #intro {
-  background-image: url("/Assets/img/Background1.jpg");
+  background-image: url("Assets/img/Background1.jpg");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -26,7 +26,7 @@ a{
 }
 
 #seller{
-  background-image: url("/Assets/img/Background2.jpg");
+  background-image: url("Assets/img/Background2.jpg");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -34,7 +34,7 @@ a{
 }
 
 #buyer{
-  background-image: url("/Assets/img/Background3.jpg");
+  background-image: url("Assets/img/Background3.jpg");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -42,7 +42,7 @@ a{
 }
 
 #end{
-  background-image: url("/Assets/img/Background4.jpg");
+  background-image: url("Assets/img/Background4.jpg");
   height: 50vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -50,7 +50,7 @@ a{
 }
 
 #footer{
-  background-image: url("/Assets/img/Background5.jpg");
+  background-image: url("Assets/img/Background5.jpg");
   height: 50vh;
   background-position: center;
   background-repeat: no-repeat;
